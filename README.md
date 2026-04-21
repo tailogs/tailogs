@@ -1,16 +1,30 @@
-## Hi there 👋
+# Направления разработки
 
-<!--
-**tailogs/tailogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Направление | Уровень |
+|-------------|---------|
+| 🖥️ Десктопная | Начальный |
+| 🎮 GameDev | Начальный |
+| 🌐 Web | Начальный |
+| ⚙️ Backend | Начальный |
+| 🔧 Системное | Начальный |
 
-Here are some ideas to get you started:
+# Языки программирования
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Язык | Уровень |
+|------|---------|
+| C | Начальный |
+| Python | Начальный |
+| C# | Начальный |
+| C++ | Начальный |
+| Lua → Love2D | Начальный |
+| Java | Начальный |
+| JavaScript | Начальный |
+| TypeScript | Начальный |
+| PHP | Начальный |
+| Kotlin | Начальный |
+| Zig | Начальный |
+| Go | Начальный |
+| Rust | Начальный |
+| Fasm | Начальный |
+| GDScript → Godot | Начальный |
+| GML → Game Maker | Начальный |
