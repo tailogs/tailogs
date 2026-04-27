@@ -18,7 +18,4 @@
 | Java            | Beginner  |
 | Kotlin          | Beginner  |
 | Zig             | Beginner  |
-| Go              | Beginner  |
 | Rust            | Beginner  |
-| Godot           | Beginner  |
-| Game Maker      | Beginner  |
