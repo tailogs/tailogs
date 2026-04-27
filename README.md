@@ -1,26 +1,24 @@
-# Направления разработки
+## Development Directions
 
-| Направление | Уровень |
-|-------------|---------|
-| 🖥️ Десктопная | Начальный |
-| 🎮 GameDev | Начальный |
-| ⚙️ Backend | Начальный |
-| 🔧 Системное | Начальный |
+| Direction       | Level     |
+|-----------------|-----------|
+| 🖥️ Desktop      | Beginner  |
+| 🎮 GameDev      | Beginner  |
+| ⚙️ Backend      | Beginner  |
 
-# Языки программирования
+## Programming Languages
 
-| Язык | Уровень |
-|------|---------|
-| C → Raylib | Начальный |
-| Python | Начальный |
-| C# | Начальный |
-| C++ | Начальный |
-| Lua → Love2D | Начальный |
-| Java | Начальный |
-| Kotlin | Начальный |
-| Zig | Начальный |
-| Go | Начальный |
-| Rust | Начальный |
-| Fasm | Начальный |
-| Godot | Начальный |
-| Game Maker | Начальный |
+| Language        | Level     |
+|-----------------|-----------|
+| C → Raylib      | Beginner  |
+| Python          | Beginner  |
+| C#              | Beginner  |
+| C++             | Beginner  |
+| Lua → Love2D    | Beginner  |
+| Java            | Beginner  |
+| Kotlin          | Beginner  |
+| Zig             | Beginner  |
+| Go              | Beginner  |
+| Rust            | Beginner  |
+| Godot           | Beginner  |
+| Game Maker      | Beginner  |
