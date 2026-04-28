@@ -18,3 +18,4 @@
 | Java            | Beginner  |
 | Kotlin          | Beginner  |
 | Rust            | Beginner  |
+| Godot           | Beginner  |
