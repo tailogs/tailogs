@@ -1,3 +1,6 @@
+Main OS: Windows
+But I use: Linux (Ubuntu) via WSL
+
 ## Development Directions
 
 | Direction       | Level     |
