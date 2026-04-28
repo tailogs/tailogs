@@ -17,5 +17,4 @@
 | Lua → Love2D    | Beginner  |
 | Java            | Beginner  |
 | Kotlin          | Beginner  |
-| Zig             | Beginner  |
 | Rust            | Beginner  |
