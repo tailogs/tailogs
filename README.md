@@ -1,4 +1,4 @@
-Main OS: Windows
+Main OS: Windows</br>
 But I use: Linux (Ubuntu) via WSL
 
 ## Development Directions
