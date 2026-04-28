@@ -4,7 +4,6 @@
 |-----------------|-----------|
 | 🖥️ Desktop      | Beginner  |
 | 🎮 GameDev      | Beginner  |
-| ⚙️ Backend      | Beginner  |
 
 ## Programming Languages
 
